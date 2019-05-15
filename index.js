@@ -1,4 +1,4 @@
-var lowercase = "I can\'t hear you!"
+var lowercase = "hello"
 var uppercase = 'HELLO!'
 var mixedCase = 'Hi there!'
 
