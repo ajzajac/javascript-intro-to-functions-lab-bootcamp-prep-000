@@ -25,4 +25,3 @@ else if (string === string.toUpperCase()) {
 } else if ('I love you, Grandma.') {
   return 'I love you, too.'
 }
-
